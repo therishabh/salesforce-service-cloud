@@ -14,4 +14,23 @@ Under this suppor setting page you'll get an option to enable close for status.
 
 ![Screenshot 2024-05-24 at 4 27 39 PM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/ca1ddd96-6ef7-480c-a538-7c2ea35327ac)
 
+### Case Queue
+Queues allow groups of users to manage a shared workload more effectively. A queue is a location where records can be routed to await processing by a group member.
+<img width="1440" alt="Screenshot 2024-05-24 at 7 07 21 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/3366f501-dd33-4ddf-969a-d55e0576251a">
+
+<img width="1440" alt="Screenshot 2024-05-24 at 7 09 44 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e3780c5c-42fa-4103-a11a-b3de0636b4e5">
+
+### Case Assignment
+Automatically assign cases to users or queues based on criteria you define. You can create multiple Assignment rules, but only one rule can be active at a time.
+
+From Service Setup, enter `Case Assignment Rules` in the Quick Find box and select Case Assignment Rules
+<img width="1440" alt="Screenshot 2024-05-24 at 7 12 15 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/4bc5014a-629a-4fab-b83a-33e5713ac369">
+<img width="1440" alt="Screenshot 2024-05-24 at 7 26 10 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e4bdf6eb-d0c0-4fa3-9910-4942befbb6d4">
+<img width="1425" alt="Screenshot 2024-05-24 at 7 26 56 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/c9405cfe-d30c-4b8f-b21e-5d82121501fa">
+<img width="1440" alt="Screenshot 2024-05-24 at 7 27 18 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/1a08249f-5bf2-40b4-a3a8-b20422976130">
+
+
+
+
+
 
