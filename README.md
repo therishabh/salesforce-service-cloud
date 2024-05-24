@@ -97,35 +97,35 @@ Account, Contact, Case, Case Comment, Case History, Case Team, Email Message, En
 
 #### What are the Objects used in sales cloud ?
 Sales Cloud comes with standard objects that are included by default. These objects are intended to provide an end-to-end setup for the sales process, and include:<br/><br/>
-Campaigns: Represents and tracks a marketing campaign, such as a direct mail promotion, webinar, or trade show.<br/>
-Leads: Potential sales opportunities or new customers<br/>
-Accounts: Organizations that you do business with<br/>
-Contacts: Individuals within the accounts<br/>
-Opportunities: Events or activities for revenue generation<br/>
-Products: Items, services, or subscriptions that your company sells<br/>
-Price books: Collections of products and their corresponding prices<br/>
-Price book entries: Establish the relationship between a product and a price book <br/>
+**Campaigns:** Represents and tracks a marketing campaign, such as a direct mail promotion, webinar, or trade show.<br/>
+**Leads:** Potential sales opportunities or new customers<br/>
+**Accounts:** Organizations that you do business with<br/>
+**Contacts:** Individuals within the accounts<br/>
+**Opportunities:** Events or activities for revenue generation<br/>
+**Products:** Items, services, or subscriptions that your company sells<br/>
+**Price books:** Collections of products and their corresponding prices<br/>
+**Price book entries:** Establish the relationship between a product and a price book <br/>
 
 #### what are the objects used in marketing cloud ?
-Here are some objects used in Salesforce Marketing Cloud:
+Here are some objects used in Salesforce Marketing Cloud:<br/><br/>
 
-Journey Builder
-A tool for mapping and creating customer journeys across email, mobile, advertising, and the web.
+**Journey Builder**<br/>
+A tool for mapping and creating customer journeys across email, mobile, advertising, and the web.<br/>
 
-Custom objects
-Can be used to personalize messages in Marketing Cloud Connect for Marketing Cloud Engagement.
+**Custom objects**<br/>
+Can be used to personalize messages in Marketing Cloud Connect for Marketing Cloud Engagement.<br/>
 
-Data extensions
-Tables that can be used within the relational database in the Marketing Cloud account.
+**Data extensions**<br/>
+Tables that can be used within the relational database in the Marketing Cloud account.<br/>
 
-Lists
-Data objects that contain subscriber data.
+**Lists**<br/>
+Data objects that contain subscriber data.<br/>
 
-CloudPages
-A webpage building feature that can be used for Subscription/Preference Centers, or any type of webpage or data capture.
+**CloudPages**<br/>
+A webpage building feature that can be used for Subscription/Preference Centers, or any type of webpage or data capture.<br/>
 
-Catalog objects
-Can be defined to appear in the Affinities graph when viewing a unified customer profile. 
+**Catalog objects**<br/>
+Can be defined to appear in the Affinities graph when viewing a unified customer profile. <br/>
 
 #### can we use campaign in the Service Cloud ?
 No
