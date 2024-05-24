@@ -29,6 +29,23 @@ From Service Setup, enter `Case Assignment Rules` in the Quick Find box and sele
 <img width="1425" alt="Screenshot 2024-05-24 at 7 26 56 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/c9405cfe-d30c-4b8f-b21e-5d82121501fa">
 <img width="1440" alt="Screenshot 2024-05-24 at 7 27 18 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/1a08249f-5bf2-40b4-a3a8-b20422976130">
 
+### Case Escalation
+Escalation rules automatically escalate case records when a case meets the criteria, which is defined in the case escalation.
+
+<img width="1440" alt="Screenshot 2024-05-24 at 7 37 22 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/1faf637d-1e46-47b7-b426-418a683d2569">
+
+<img width="1440" alt="Screenshot 2024-05-24 at 7 51 05 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/55bc3c58-f021-4b28-8dd4-7102138297f6">
+
+<img width="1440" alt="Screenshot 2024-05-24 at 7 52 00 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/59a45b25-ce67-4015-9da2-5378bfea3f9e">
+
+<img width="1440" alt="Screenshot 2024-05-24 at 7 55 48 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/1a9cb66e-64e7-4a13-b1fa-b6e642b67278">
+
+<img width="1440" alt="Screenshot 2024-05-24 at 7 56 14 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/ecb30a20-2f1c-45e8-8448-5ab19ab03760">
+
+
+
+
+
 
 
 
