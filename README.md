@@ -136,21 +136,21 @@ Generally lead is what identified at initial discussion or initial phase, while 
 Lead is about non-confirmed business stage, opportunity is about Qualified and confirm stage.<br/>
 
 #### Explain in 1-2 lines, in your own words, the significance of the below Standard objects in salesforce :
-1.Campaign
-2.Lead
-3.Account
-4.Contact
-5.Opportunity
-6.Quote
-7.Contract
+1.Campaign<br/>
+2.Lead<br/>
+3.Account<br/>
+4.Contact<br/>
+5.Opportunity<br/>
+6.Quote<br/>
+7.Contract<br/><br/>
 
-**Campaign:** Represents marketing efforts to attract potential customers and track their effectiveness.
-**Lead:** Captures information about potential customers who have shown interest in your products or services.
-**Account:** Stores information about companies or organizations you do business with.
-**Contact:** Holds details about individuals associated with accounts.
-**Opportunity:** Tracks potential sales and revenue-generating deals.
-**Quote:** Documents the proposed prices of products or services for a particular opportunity.
-**Contract:** Manages the terms and agreements between your company and its customers.
+**Campaign:** Represents marketing efforts to attract potential customers and track their effectiveness.<br/>
+**Lead:** Captures information about potential customers who have shown interest in your products or services.<br/>
+**Account:** Stores information about companies or organizations you do business with.<br/>
+**Contact:** Holds details about individuals associated with accounts.<br/>
+**Opportunity:** Tracks potential sales and revenue-generating deals.<br/>
+**Quote:** Documents the proposed prices of products or services for a particular opportunity.<br/>
+**Contract:** Manages the terms and agreements between your company and its customers.<br/>
 
 
 
