@@ -42,12 +42,31 @@ Escalation rules automatically escalate case records when a case meets the crite
 
 <img width="1440" alt="Screenshot 2024-05-24 at 7 56 14 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/ecb30a20-2f1c-45e8-8448-5ab19ab03760">
 
+<img width="1440" alt="Screenshot 2024-05-24 at 8 01 39 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/693b73ed-bf3c-4e35-9332-f6d9783514f8">
+
+Test if this Escalation is working or not.
+First create a case.
+<img width="1440" alt="Screenshot 2024-05-24 at 8 04 07 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/1d9e1718-9186-459f-bd49-24436f3c9e31">
+
+Simply check if this case is been in queue to escalate, we can simply go to our main setup page and search for case escalations in the monitoring section. So basically, if this case, which is on high priority and has the origin as email, it does not get solved or does not get closed within three hours of its creation, then the case will automatically escalate to the next owner.
+
+<img width="1440" alt="Screenshot 2024-05-24 at 8 05 07 PM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/7cd48fda-6592-46a7-abc8-0b85fc696336">
+
+### Assets
+Assets can be related to an account, to a contact and to a particular product as well. There are multiple lookup fields in this form. So basically what an asset represents is, for example, if you're running a school business or an educational business and each chair, each sitting chair or each resource that your university has is an asset for you. And to keep track of those assets, you can create records in Salesforce to keep track of them and give them a unique identification.
+
+### Entitlements
 
 
 
 
-
-
-
+### Field Service Object Relationships
+To Understand relationships between various Field Service Objects, Go to setup menu and search Schema builder.
+In objects, select the following objects :</br>
+**Service Appointments**</br>
+**Service Resource**</br>
+**Service Territory**</br>
+**Service territory Member**</br>
+You will see the relationship schema of these objects on the canvas.
 
 
