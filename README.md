@@ -70,7 +70,7 @@ In objects, select the following objects :</br>
 You will see the relationship schema of these objects on the canvas.
 
 #### Standard Vs Custom features in the SF projects ?
-In Salesforce projects, understanding the difference between standard and custom objects is key to effectively managing data and processes:
+In Salesforce projects, understanding the difference between standard and custom objects is key to effectively managing data and processes:<br/><br/>
 **Standard Objects:**
 - Pre-defined by Salesforce: Include core objects such as Accounts, Contacts, Opportunities, Leads, etc.
 - Out-of-the-box Functionality: Come with built-in fields, relationships, and business logic.
@@ -85,8 +85,6 @@ In Salesforce projects, understanding the difference between standard and custom
 - Scalability: Can be scaled and modified as business needs evolve.
 - Integration: Facilitate integration with other systems and applications, enabling seamless data flow.
 
-#### How to use Standard features of Salesforce in projects?
-
 #### what is cloud ?
 Cloud is a specialized software for any industries.
 
@@ -94,19 +92,19 @@ Cloud is a specialized software for any industries.
 Sales Cloud focuses on sales activities while Service Cloud is designed for case routing automation and speeding up case resolution for support agents.
 
 #### What are the Objects used in service cloud ?
-Salesforce Service Cloud objects are database tables that store organization-specific data. Some recommended objects for enterprises include:
+Salesforce Service Cloud objects are database tables that store organization-specific data. Some recommended objects for enterprises include:<br/><br/>
 Account, Contact, Case, Case Comment, Case History, Case Team, Email Message, Entitlement, Entitlement Process, Entitlement Template, Knowledge, and Macro.
 
 #### What are the Objects used in sales cloud ?
-Sales Cloud comes with standard objects that are included by default. These objects are intended to provide an end-to-end setup for the sales process, and include:
-Campaigns: Represents and tracks a marketing campaign, such as a direct mail promotion, webinar, or trade show.
-Leads: Potential sales opportunities or new customers
-Accounts: Organizations that you do business with
-Contacts: Individuals within the accounts
-Opportunities: Events or activities for revenue generation
-Products: Items, services, or subscriptions that your company sells
-Price books: Collections of products and their corresponding prices
-Price book entries: Establish the relationship between a product and a price book 
+Sales Cloud comes with standard objects that are included by default. These objects are intended to provide an end-to-end setup for the sales process, and include:<br/><br/>
+Campaigns: Represents and tracks a marketing campaign, such as a direct mail promotion, webinar, or trade show.<br/>
+Leads: Potential sales opportunities or new customers<br/>
+Accounts: Organizations that you do business with<br/>
+Contacts: Individuals within the accounts<br/>
+Opportunities: Events or activities for revenue generation<br/>
+Products: Items, services, or subscriptions that your company sells<br/>
+Price books: Collections of products and their corresponding prices<br/>
+Price book entries: Establish the relationship between a product and a price book <br/>
 
 #### what are the objects used in marketing cloud ?
 Here are some objects used in Salesforce Marketing Cloud:
@@ -133,9 +131,9 @@ Can be defined to appear in the Affinities graph when viewing a unified customer
 No
 
 #### Difference between lead and opportunity ?
-first of all lead is information for a person or a business, lead can be a person also or a company also company means business that will give you some kind of deal. Buy Opportunity is about Opportunity.
-Generally lead is what identified at initial discussion or initial phase, while opportunity is identified at core phase.
-Lead is about non-confirmed business stage, opportunity is about Qualified and confirm stage.
+first of all lead is information for a person or a business, lead can be a person also or a company also company means business that will give you some kind of deal. Buy Opportunity is about Opportunity.<br/>
+Generally lead is what identified at initial discussion or initial phase, while opportunity is identified at core phase.<br/>
+Lead is about non-confirmed business stage, opportunity is about Qualified and confirm stage.<br/>
 
 #### Explain in 1-2 lines, in your own words, the significance of the below Standard objects in salesforce :
 1.Campaign
