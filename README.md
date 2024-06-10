@@ -164,12 +164,19 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 ---------------------------------------------------------
 
 <img width="1424" alt="Screenshot 2024-06-11 at 5 04 23 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a7bcc47d-7fcb-45b8-9679-9f4c4da7dddc">
-
+<br/><br/>
 <img width="1422" alt="Screenshot 2024-06-11 at 5 05 12 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e2248144-d77d-46a0-bfd8-536a3ded9828">
-
+<br/><br/>
 <img width="1434" alt="Screenshot 2024-06-11 at 5 07 25 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/c9376886-afd5-4d30-8cdc-c1d631ef1a69">
-
-
+<br/><br/>
+<img width="1437" alt="Screenshot 2024-06-11 at 5 08 50 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e25dc064-6cca-402d-88e1-2464782b7dd0">
+<br/><br/>
+<img width="1431" alt="Screenshot 2024-06-11 at 5 09 54 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/d12c9a0e-b370-4467-84e0-c77653499844">
+<br/><br/>
+<img width="1434" alt="Screenshot 2024-06-11 at 5 10 22 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/5d28ce2c-e1a3-42fb-aed6-40930c2ffd41">
+<br/><br/>
+<img width="1433" alt="Screenshot 2024-06-11 at 5 17 36 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e98aedbe-b22f-430d-9d3e-453d2089f3f1">
+<br/><br/>
 
 
 
