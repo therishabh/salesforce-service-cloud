@@ -1,4 +1,4 @@
-# salesforce-service-cloud(#service-cloud-apex-hours)
+# [Salesforce Service Cloud](#service-cloud-apex-hours)
 ## Case Object
 
 A case object typically represents a customer issue or problem, and this object is mainly used by your customer support or your support agents who are constantly in touch with the clients trying to solve their issues.</br>
