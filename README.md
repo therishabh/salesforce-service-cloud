@@ -157,13 +157,17 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 ---------------------------------------------------------
 ---------------------------------------------------------
 ---------------------------------------------------------
------------- # Service Cloud (Apex Hours) ---------------
+# Service Cloud (Apex Hours)
 ---------------------------------------------------------
 ---------------------------------------------------------
 ---------------------------------------------------------
 ---------------------------------------------------------
 
 <img width="1424" alt="Screenshot 2024-06-11 at 5 04 23 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a7bcc47d-7fcb-45b8-9679-9f4c4da7dddc">
+
+<img width="1422" alt="Screenshot 2024-06-11 at 5 05 12 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e2248144-d77d-46a0-bfd8-536a3ded9828">
+
+<img width="1434" alt="Screenshot 2024-06-11 at 5 07 25 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/c9376886-afd5-4d30-8cdc-c1d631ef1a69">
 
 
 
