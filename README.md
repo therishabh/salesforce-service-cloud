@@ -152,6 +152,18 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 **Quote:** Documents the proposed prices of products or services for a particular opportunity.<br/>
 **Contract:** Manages the terms and agreements between your company and its customers.<br/>
 
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+------------ # Service Cloud (Apex Hours) ---------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+
+<img width="1424" alt="Screenshot 2024-06-11 at 5 04 23 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a7bcc47d-7fcb-45b8-9679-9f4c4da7dddc">
 
 
 
