@@ -177,6 +177,15 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 <br/><br/>
 <img width="1434" alt="Screenshot 2024-06-11 at 5 26 12 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a9703b29-1f8c-4e45-8ecc-42e0e12f6489">
 <br/><br/>
+<br/><br
+       
+#### Demo
+
+##### Create a user profile for customer support
+![Screenshot 2024-06-11 at 5 42 29 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/de42c5b1-11e3-461e-93bc-b3ce943326c2)
+
+##### Create a new app
+![Screenshot 2024-06-11 at 5 46 06 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/3f8d19f2-59e1-48aa-93ec-1f2fc2cac00e)
 
 
 
