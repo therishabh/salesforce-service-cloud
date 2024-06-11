@@ -209,11 +209,7 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 ![Screenshot 2024-06-11 at 6 16 34 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a3a0954a-1cbf-4261-9bc5-11a72c9db1a4)
 
 #### Set up Support Holidays
-<img width="719" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/b84d24a8-2a13-4309-a515-e79a55901f67">
-![Screenshot 2024-06-11 at 6 16 34 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/b5bfb9f6-b17d-4659-8e9e-75e62446afc3)
-![Screenshot 2024-06-11 at 6 18 54 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/9a58f447-6301-41d9-bba8-797c485edc14)
-![Screenshot 2024-06-11 at 6 19 11 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/27fb5e10-53e2-4b57-84ab-492f911a941b)
-![Screenshot 2024-06-11 at 6 19 30 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/9479cccc-7d9a-4e9c-8c73-9f81dff5f087)
+<img width="1438" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/b84d24a8-2a13-4309-a515-e79a55901f67">
 
 
 
