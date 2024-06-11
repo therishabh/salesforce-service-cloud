@@ -215,9 +215,16 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 <img width="1438" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a6574681-fe43-43a4-a87e-2df82868df40">
 
 
+### Case Creation:
 
+#### Email to Case
+<img width="1438" alt="Screenshot 2024-06-11 at 7 24 26 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/ed3ed215-d1dc-41a4-982c-f98dc89b4587">
 
+<img width="722" alt="Screenshot 2024-06-11 at 7 25 41 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/41bb06e7-815a-4dcf-9d9e-7837784d8093">
 
+![Screenshot 2024-06-11 at 7 28 46 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/02711e24-18af-4993-97e5-ea624a46cf81)
+
+![Screenshot 2024-06-11 at 7 29 28 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/29600c59-2765-4a24-a4b7-d3c0d0fdda92)
 
 
 
