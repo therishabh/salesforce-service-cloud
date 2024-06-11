@@ -217,14 +217,27 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 
 ### Case Creation:
 
+#### Manual creation
+// do it manually by click on add new button
+
 #### Email to Case
 <img width="1438" alt="Screenshot 2024-06-11 at 7 24 26 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/ed3ed215-d1dc-41a4-982c-f98dc89b4587">
 
-<img width="722" alt="Screenshot 2024-06-11 at 7 25 41 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/41bb06e7-815a-4dcf-9d9e-7837784d8093">
+<img width="1438" alt="Screenshot 2024-06-11 at 7 25 41 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/41bb06e7-815a-4dcf-9d9e-7837784d8093">
 
 ![Screenshot 2024-06-11 at 7 28 46 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/02711e24-18af-4993-97e5-ea624a46cf81)
 
 ![Screenshot 2024-06-11 at 7 29 28 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/29600c59-2765-4a24-a4b7-d3c0d0fdda92)
+
+#### Web to case
+<img width="1437" alt="Screenshot 2024-06-11 at 7 34 10 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/b29d701a-d313-43d5-9ff3-55dc51b9428c">
+
+<img width="1437" alt="Screenshot 2024-06-11 at 7 34 10 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/f8709e12-2270-4123-b6f0-5df6a68424eb">
+
+![Screenshot 2024-06-11 at 7 39 59 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/89e44d86-25c3-435a-b2a5-5faa844f1064)
+
+
+![Screenshot 2024-06-11 at 7 40 20 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/15765e32-a1d9-4555-a6ac-20ee71b56c17)
 
 
 
