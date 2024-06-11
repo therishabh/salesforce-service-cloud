@@ -239,6 +239,9 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 
 ![Screenshot 2024-06-11 at 7 40 20 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/15765e32-a1d9-4555-a6ac-20ee71b56c17)
 
+<img width="1434" alt="Screenshot 2024-06-11 at 7 41 51 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/7302cdf7-4773-4b29-8f78-d93e17351762">
+
+
 
 
 
