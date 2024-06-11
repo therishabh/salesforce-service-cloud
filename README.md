@@ -196,7 +196,15 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 ![Screenshot 2024-06-11 at 5 54 59 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e1edb918-6e92-480d-8880-17bacfb65970)
 
 
+## Basic Setup
+<img width="1433" alt="Screenshot 2024-06-11 at 6 12 05 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/9f80aa49-b6d3-409d-bd5d-9d69029e893c">
 
+
+#### Customize Support Setting
+![Screenshot 2024-06-11 at 6 13 06 AM](https://github.com/therishabh/salesforce-service-cloud/assets/7955435/8fc71be3-ddbf-4f62-b7a0-fa4e64ca904b)
+
+#### Set Business Hours
+<img width="1438" alt="Screenshot 2024-06-11 at 6 13 59 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/b5ffbbce-a3a1-4e27-bf72-8b97fea831d4">
 
 
 
