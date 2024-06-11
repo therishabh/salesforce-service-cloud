@@ -210,6 +210,9 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 
 #### Set up Support Holidays
 <img width="1438" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/b84d24a8-2a13-4309-a515-e79a55901f67">
+<img width="1438" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/84da3d2b-dd5c-40b0-9b9d-311fde32b0ad">
+<img width="1438" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/e9f97a8e-2b95-4bad-942d-43c957e2b581">
+<img width="1438" alt="Screenshot 2024-06-11 at 6 17 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/a6574681-fe43-43a4-a87e-2df82868df40">
 
 
 
