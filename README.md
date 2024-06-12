@@ -241,6 +241,14 @@ Lead is about non-confirmed business stage, opportunity is about Qualified and c
 
 <img width="1434" alt="Screenshot 2024-06-11 at 7 41 51 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/7302cdf7-4773-4b29-8f78-d93e17351762">
 
+## OmniChannel
+<img width="1439" alt="Screenshot 2024-06-12 at 5 14 56 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/3a54960c-f107-4c3c-b118-a79064e3ffa3">
+<img width="1428" alt="Screenshot 2024-06-12 at 5 15 12 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/4b2504d1-d7cf-4ef9-8f7e-5450411e04f2">
+<img width="1432" alt="Screenshot 2024-06-12 at 5 15 43 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/49d2ec1b-3330-4b8c-b7de-d7661955d7aa">
+<img width="1434" alt="Screenshot 2024-06-12 at 5 16 04 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/ddac8dcd-6edc-469c-aadd-7c383063798f">
+<img width="1433" alt="Screenshot 2024-06-12 at 5 16 25 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/4bf1bf7d-5cbb-4965-a1d7-3a2c0b755f07">
+<img width="1435" alt="Screenshot 2024-06-12 at 5 16 39 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/aa643183-5899-4d04-8fb5-fea80550553e">
+<img width="1431" alt="Screenshot 2024-06-12 at 5 17 31 AM" src="https://github.com/therishabh/salesforce-service-cloud/assets/7955435/46105756-b5da-47b2-811d-3f61deef8e90">
 
 
 
